@@ -11,6 +11,7 @@ function App() {
       <main className="app__content">
         <Card />
       </main>
+      <div className="footer">OK</div>
     </div>
   );
 }
